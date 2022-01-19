@@ -24,14 +24,6 @@ function Footer() {
         </div>
         <div className="footer-center">
           <div className="footer-item">
-            <h4>SONGS</h4>
-            <ul role="list">
-              <li>
-                <a href="/member">Songs</a>
-              </li>
-            </ul>
-          </div>
-          <div className="footer-item">
             <h4>ABOUT</h4>
             <ul role="list">
               <li>

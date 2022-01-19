@@ -15,8 +15,8 @@ function Home() {
         {/* <Link to="/song">
           <button> SONGS </button>
         </Link> */}
-        <Link to="/songs">
-          <button> SONGS </button>
+        <Link to="/login">
+          <button> Login </button>
         </Link>
         <br />
         <br />

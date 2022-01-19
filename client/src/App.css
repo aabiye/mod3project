@@ -471,13 +471,13 @@ P {
 }
 
 .login__signInButton {
-  background: #f0c14b;
+  background:   black;
   border-radius: 2px;
   width: 100%;
   height: 30px;
   margin-top: 10px;
   border: 1px solid;
-  border-color: #a88734 #9c7e31 #846a29;
+  border-color:  black;
   
 }
 
